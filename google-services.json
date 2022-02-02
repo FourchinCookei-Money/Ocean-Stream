@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "607304679910",
+    "firebase_url": "https://ocean-stream-crypto-commerce-default-rtdb.firebaseio.com",
+    "project_id": "ocean-stream-crypto-commerce",
+    "storage_bucket": "ocean-stream-crypto-commerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607304679910:android:7fbb6ace03b233fd629627",
+        "android_client_info": {
+          "package_name": "xyz.proofoflegalrecords.oceanstream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607304679910-b09b5i64dr4mguqjrukl5p1bc8m22oau.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "xyz.proofoflegalrecords.oceanstream",
+            "certificate_hash": "1550e299b6c2401a3bc4eb6162814693d1090f08"
+          }
+        },
+        {
+          "client_id": "607304679910-r7c3en6105142lkg37c23kejju4357gs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsKy-HprxuU6LqchSbrcc8ZrTNzFkLEHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607304679910-r7c3en6105142lkg37c23kejju4357gs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
